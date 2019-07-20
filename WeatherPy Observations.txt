@@ -1,0 +1,8 @@
+1. There is a visual trend in the plot that relates latitude and temperature. While we move closer to Latitude 0 (Equator),
+temperatures rise, and when moving far from the Equator, to North or South pole, Temperature decreases. 
+
+2. There is not an observable trend for Cloudiness, Humidity and Wind Speed related to latitude. This can show that these 
+weather conditions are not directly related to latitude as temperature is. 
+
+3. Observing these plots, we can infer that Humidity is related to Temperature. Considering that temperature rises closer to equator, and humidity is higher
+in latitudes that are closer to equator, then there is an observable relation between temperature and humidity. 
